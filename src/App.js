@@ -18,6 +18,7 @@ import {
   Feed,
 } from "./components";
 
+//let's goo
 const MobileBottomNav = () => {
   const [value, setValue] = useState("home");
   const navigate = useNavigate();
